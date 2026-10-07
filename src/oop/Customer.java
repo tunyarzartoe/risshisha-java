@@ -5,6 +5,6 @@ class Customer {
 	String name;
 	void display() {
 		System.out.println("ID :" + id );
-		System.out.println("名前 :" + name );
+		System.out.println(" :" + name );
 	}
 }
