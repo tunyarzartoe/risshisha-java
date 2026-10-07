@@ -4,10 +4,9 @@ class Account {
 	int number;
 	String name;
 	
-	public Account(int number, String name) {
-		super();
-		this.number = number;
-		this.name = name;
+	Account(int nu, String na) {
+		number = nu;
+		name = na;
 	}
 	void display() {
 		// TODO Auto-generated method stub
