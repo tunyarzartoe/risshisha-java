@@ -1,4 +1,4 @@
-package controller;
+package constructor;
 
 class Example232 {
 
