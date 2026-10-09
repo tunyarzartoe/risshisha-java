@@ -1,4 +1,4 @@
-package constructor;
+package oop.constructor;
 
 class Practice231 {
 
