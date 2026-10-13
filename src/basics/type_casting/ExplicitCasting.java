@@ -1,4 +1,4 @@
-package basics;
+package basics.type_casting;
 
 public class ExplicitCasting {
 
