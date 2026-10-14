@@ -17,9 +17,15 @@ public class Example251 {
 //		System.out.println("ギフト名　   : " + name1);
 //		System.out.println("ギフトコート　: " + code2);
 //		System.out.println("ギフト名　   : " + name2);
-		for (int i = 0; i < gitArray.length; i++) {
-			int code = gitArray[i].getCode();
-			String name = gitArray[i].getName();
+//		for (int i = 0; i < gitArray.length; i++) {
+//			int code = gitArray[i].getCode();
+//			String name = gitArray[i].getName();
+//			System.out.println("ギフトコート　: " + code);
+//			System.out.println("ギフト名　   : " + name);
+//		}
+		for(Gift gift: gitArray) {
+			int code = gift.getCode();
+			String name = gift.getName();
 			System.out.println("ギフトコート　: " + code);
 			System.out.println("ギフト名　   : " + name);
 		}
