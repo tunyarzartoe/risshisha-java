@@ -1,4 +1,4 @@
-package oop.constructor;
+package oop.access_level_and_packaging;
 
 public class EmployeeBean {
 	private int id;
