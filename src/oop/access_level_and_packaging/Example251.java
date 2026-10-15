@@ -1,7 +1,5 @@
 package oop.access_level_and_packaging;
 
-import java.util.Iterator;
-
 public class Example251 {
 
 	public static void main(String[] args) {
