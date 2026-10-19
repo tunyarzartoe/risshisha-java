@@ -1,11 +1,11 @@
-package oop;
+package oop.models;
 
-class Product {
-	String no;
-	String name;
-	int price;
-	int quantity;
-	void display() {
+public class Product {
+	public String no;
+	public String name;
+	public int price;
+	public int quantity;
+	public void display() {
 		int total = price * quantity;
 		System.out.println("ナンバー :" + no );
 		System.out.println("製品名 :" + name );

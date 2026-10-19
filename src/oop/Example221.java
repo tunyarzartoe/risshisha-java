@@ -1,5 +1,7 @@
 package oop;
 
+import oop.models.Customer;
+
 class Example221 {
 
 	public static void main(String[] args) {

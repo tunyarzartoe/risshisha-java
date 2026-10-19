@@ -1,5 +1,7 @@
 package oop;
 
+import oop.models.Product;
+
 class Practice222 {
 
 	public static void main(String[] args) {
