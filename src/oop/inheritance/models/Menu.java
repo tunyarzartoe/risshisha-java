@@ -13,7 +13,6 @@ class Menu {
 	}
 
 	public void display() {
-		// TODO Auto-generated method stub
 		System.out.println("品名 : " + name);
 		System.out.println("単価 : " + price + "円");
 	}
