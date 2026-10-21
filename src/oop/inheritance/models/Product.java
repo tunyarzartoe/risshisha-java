@@ -1,8 +1,8 @@
 package oop.inheritance.models;
 
 public class Product {
-	public String name;
-	public int price;
+	private String name;
+	private int price;
 	public Product(String name, int price) {
 		super();
 		this.name = name;

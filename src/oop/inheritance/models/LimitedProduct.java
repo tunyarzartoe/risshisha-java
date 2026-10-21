@@ -7,7 +7,6 @@ public class LimitedProduct extends Product{
 		super(name, price);
 		this.quantity = quantity;
 	}
-	
 	public void display() {
 		String name = super.getName();
 		int price = super.getPrice();
