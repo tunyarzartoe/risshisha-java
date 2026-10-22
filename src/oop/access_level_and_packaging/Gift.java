@@ -14,4 +14,8 @@ public class Gift {
 	public String getName() {
 		return name;
 	}
+	public void displayGift() {
+		// TODO Auto-generated method stub
+		System.out.println();
+	}
 }
